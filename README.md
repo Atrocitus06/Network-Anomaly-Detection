@@ -1,0 +1,1 @@
+This project deals with categorising the incoming data packets and use AI models to classify benign and malicious packets. The project utilises a Neural Network (ANN) and Decision Tree Classifier , which improves the ROC score to 95%. The neural network is trained for 20 cycles (epochs), learning to distinguish attacks from normal traffic.
